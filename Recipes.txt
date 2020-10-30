@@ -6,4 +6,10 @@ Halwa
 Maggie
 egg 
 chicken
+
+pizza
+burger
+carrot
+
+
 Thank you
